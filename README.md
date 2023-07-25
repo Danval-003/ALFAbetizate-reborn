@@ -1,6 +1,6 @@
 # ALFAbetizate: Empowering Literacy through Interactive Audio and Voice Recognition
 
-![ALFAbetizate Logo](Alphabetizate.png) *Insert here a logo representing literacy and learning.*
+![ALFAbetizate Logo](Alphabetizate.png) 
 
 ## Overview:
 ALFAbetizate is an innovative and transformative application designed to tackle illiteracy and empower individuals with limited reading and writing skills. Leveraging cutting-edge interactive activities and seamlessly integrating audio and voice recognition technologies, ALFAbetizate presents an engaging and accessible learning experience for those seeking to overcome illiteracy barriers.
